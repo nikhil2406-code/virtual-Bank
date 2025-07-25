@@ -1,5 +1,5 @@
 # virtual-Bank
-#  Bank Account Management System (Java Console Application)
+#  Bank Account Management System
 
 A simple console-based Java application to manage multiple user bank accounts. This project uses Object-Oriented Programming concepts like classes, objects, static variables, and encapsulation. It simulates basic banking operations such as account creation, deposit, withdrawal, and viewing account details.
 
